@@ -1,0 +1,2 @@
+[17-May-2018 06:46:34 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Controller' not found in /home/hn0pfhfu5ktn/public_html/app/Http/Controllers/Admin/ProductController.php on line 10
+[17-May-2018 06:47:27 UTC] PHP Fatal error:  Class 'App\Http\Contollers\Controller' not found in /home/hn0pfhfu5ktn/public_html/app/Http/Controllers/Admin/ProductController.php on line 10
